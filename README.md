@@ -1,4 +1,4 @@
-# American Truck Simulator Light Controls For Microbit
+# American Truck Simulator Light Controls For micro:bit
   ⚠️ This project is based of Bluetooth HID Project by bsiever | https://github.com/bsiever/microbit-pxt-blehid ⚠️
 
 Microbit V2 is recommended 
