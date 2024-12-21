@@ -1,9 +1,9 @@
 # American Truck Simulator Light Controls For Microbit
-  This project is based of Bluetooth HID Project by bsiever | https://github.com/bsiever/microbit-pxt-blehid
+  ⚠️ This project is based of Bluetooth HID Project by bsiever | https://github.com/bsiever/microbit-pxt-blehid ⚠️
 
 Microbit V2 is recommended 
 
-# This code is not affiliated with American Truck Simulator Creators THIS IS FAN MADE
+# ⚠️ This code is not affiliated with American Truck Simulator Creators THIS IS FAN MADE ⚠️
 
 # How to install code on Micro:bit
  1. Go to https://makecode.microbit.org/S83451-06204-16264-48410
@@ -15,7 +15,7 @@ Microbit V2 is recommended
 
 # How to setup
  1. Unplug micro:bit and connect battery pack
- 2. Open your computer Bluetooth Settings
+ 2. Open your computer Bluetooth Settings 
  3. Connect a device named something along the lines of "ubit"
     If your computer shows a Bluetooth Keyboard connected that is normal!
  4. Open American Truck Simulator
