@@ -21,7 +21,11 @@ Microbit V2 is recommended
     You do not need to change any settings on ATS for this to work
 
 # How to use
+ 
  "A" button = Left Turn Signal
+ 
  "B" button = Right Turn Signal
+ 
  "A" and "B" buttons pressed at the same time = Hazard Lights
+ 
  Oval Icon/Logo pressed = Headlight Control
