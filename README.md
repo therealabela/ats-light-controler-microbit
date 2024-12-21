@@ -31,3 +31,13 @@ Microbit V2 is recommended
  "A" and "B" buttons pressed at the same time = Hazard Lights
  
  Oval Icon/Logo pressed = Headlight Control
+
+ # Troubleshooting
+   If Your micro:bit is not showing up in your bluetooth menu, here are the following ways to fix it.
+
+   1. Press "A" and "B" buttons then refer to step 2
+   2. Whilst pressing the "A" and "B" buttons, click the reset button on the back 1 time
+   3. Let go of all buttons, the micro:bit will show something on the screen that looks like 2 or more leds are off, This is normal!
+   4. Check your bluetooth menu and it will show the micro:bit as "BBC Micro:bit" or "ubit"
+   5. After connecting press the reset button on the back 1 time to re-open the program
+      It should start working now!
