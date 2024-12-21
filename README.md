@@ -40,4 +40,5 @@ Microbit V2 is recommended
    3. Let go of all buttons, the micro:bit will show something on the screen that looks like 2 or more leds are off, This is normal!
    4. Check your bluetooth menu and it will show the micro:bit as "BBC Micro:bit" or "ubit"
    5. After connecting press the reset button on the back 1 time to re-open the program
+
       It should start working now!
