@@ -8,8 +8,10 @@ Microbit V2 is recommended
 # How to install code on Micro:bit
  1. Go to https://makecode.microbit.org/S83451-06204-16264-48410
  2. Click Simulator
-    Now is the time to Connect Your micro:bit.
- 3. Click Download and follow the prompts untill installed
+
+     Now is the time to Connect Your micro:bit.
+
+ 4. Click Download and follow the prompts untill installed
 
 # How to setup
  1. Unplug micro:bit and connect battery pack
