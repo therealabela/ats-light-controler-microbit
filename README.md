@@ -42,3 +42,5 @@ Microbit V2 is recommended
    5. After connecting press the reset button on the back 1 time to re-open the program
 
       It should start working now!
+
+      ⚠️ If this does not work, create a issue
