@@ -35,7 +35,7 @@ Microbit V2 is recommended
  # Troubleshooting Steps
    If Your micro:bit is not showing up in your bluetooth menu, here are the following steps to fix it.
 
-   1. Press "A" and "B" buttons then refer to step 2
+   1. Press and hold the "A" and "B" buttons then refer to step 2
    2. Whilst pressing the "A" and "B" buttons, click the reset button on the back 1 time
    3. Let go of all buttons, the micro:bit will show something on the screen that looks like 2 or more leds are off, This is normal!
    4. Check your bluetooth menu and it will show the micro:bit as "BBC Micro:bit" or "ubit"
