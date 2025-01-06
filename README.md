@@ -33,6 +33,7 @@ Microbit V2 is recommended
  Oval Icon/Logo pressed = Headlight Control
 
  # Troubleshooting Steps
+  
    If Your micro:bit is not showing up in your bluetooth menu, here are the following steps to fix it.
 
    1. Press and hold the "A" and "B" buttons then refer to step 2
