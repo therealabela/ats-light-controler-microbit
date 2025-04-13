@@ -5,7 +5,7 @@ micro:bit V2 is recommended
 
 # ⚠️ This code is not affiliated with American Truck Simulator Creators THIS IS FAN MADE ⚠️
 
-# How to install code on Micro:bit
+# How to install code on a micro:bit
  1. Go to https://makecode.microbit.org/S83451-06204-16264-48410
  2. Click Simulator
 
