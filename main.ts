@@ -35,3 +35,9 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     basic.clearScreen()
 })
 keyboard.startKeyboardService()
+basic.pause(100)
+if (control.deviceName() == "sim-") {
+    serial.writeLine("!!!- IF YOU SEE THIS MESSAGE, YOU ARE ON THE WRONG SERIAL OUTPUT. PLEASE CLICK THE \"Show data Device\" BUTTON INSTEAD OF \"Show data Simulator\"! -!!!")
+}
+serial.writeLine("micro:bit Bluetooth Connection Name" + " = " + "uBit " + "[" + control.deviceName() + "]")
+basic.showString("Look at Serial Output")
