@@ -18,7 +18,7 @@ micro:bit V2 is recommended
  1. On the same page we installed the code on to the micro:bit, click the "Edit Code" button on the top. When you get to the code editor on the MakeCode website, click the "Show data Device" button on the side of the code editor **NOT THE "Show data Simulator" button**. Now press the reset button on the micro:bit and it will show in the output the name to connect to in bluetooth settings. Keep this name in mind for later
  2. Open your computer Bluetooth Settings 
  3. Connect the bluetooth device name said in the Serial Output that we got in step 1
-## If your computer shows a Bluetooth Keyboard connected that is normal!
+### If your computer shows a Bluetooth Keyboard connected that is normal!
  4. Open American Truck Simulator
  5. Start Driving and test it out!
 ## You do not need to change any settings on ATS for this to work
